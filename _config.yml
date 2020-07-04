@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Cody Little # add your name
 author-img: IMG_1451.JPG # add your photo
-about-author: I work with data to make the world a better place. <a href="assets/resumePDF.pdf # add description
+about-author: I work with data to make the world a better place. <a href="assets/ResumePDF.pdf # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: cody-little # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: clittle10@ycp.edu # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier

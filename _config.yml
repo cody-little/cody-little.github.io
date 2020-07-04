@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Cody Little # add your name
 author-img: IMG_1451.JPG # add your photo
-about-author: I work with data to make the world a better place. <a href="assets/ResumePDF.pdf # add description
+about-author: I work with data to make the world a better place. <a href="assets/ResumePDF.pdf"> Check out my resume! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: cody-little # add your Github handle

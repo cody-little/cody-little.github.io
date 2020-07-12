@@ -32,5 +32,5 @@ My time at here began in the fall of 2017, I worked and reported directly to the
 
 - Gather, analyze, and visualize data
 - Write reports resulting from data analysis
-- Meet with governmental and communtiy stakeholders
+- Meet with governmental and community stakeholders
 - Design and complete research on a variety of policy topics

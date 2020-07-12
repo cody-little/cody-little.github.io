@@ -21,3 +21,16 @@ I started working at the Penn Child Research Center as a survey research intern 
 - Design data analytic plan to answer research questions 
 - Build and deploy surveys using Qualtrics software
 - Effectively communicate research design and analysis ideas
+
+
+
+## Arthur J. Glatfelter Institute for Public Policy
+
+My time at here began in the fall of 2017, I worked and reported directly to the director of the institute and it was the formative experience that led me into analytical and publc policy research. I worked across the entire range of the policy spectrum from data analysis, to research design, meeting with community stakeholders and everthing in between. My experience here was phenomenal thanks to a great mentor. 
+
+##### Responsibilities
+
+- Gather, analyze, and visualize data
+- Write reports resulting from data analysis
+- Meet with governmental and communtiy stakeholders
+- Design and complete research on a variety of policy topics

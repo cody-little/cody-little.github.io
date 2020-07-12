@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public Policy Experience
+title: Research and Public Policy Experience
 date: 2017-09-12 13:32:20 +0300
 description: A page detailing my public policy experience. # Add post description (optional)
 img: publicpolicyexperience.jpg # Add image post (optional)

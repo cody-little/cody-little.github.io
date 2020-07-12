@@ -9,7 +9,7 @@ tags:
 ---
 # Experience Across Different Fields
 
-Throughout both my undergraduate and graduate education I have worked in the public policy field performing data analysis and research on a variety of topics. I have worked at two seperate organizations the Arthur J. Glatfelter Institute of Public Policy in York, Pennsylvania and the Penn Child Research Center in Philadelphia, Pennsylvania. My responsibilies and experience gained at both organizations varied but my cumulative experience performing analysis and public policy work totals more than two years. 
+Throughout both my undergraduate and graduate education I have worked in the public policy field performing data analysis and research on a variety of topics. I have worked at two seperate organizations; the Arthur J. Glatfelter Institute of Public Policy in York, Pennsylvania and the Penn Child Research Center in Philadelphia, Pennsylvania. My responsibilies at both organizations varied but my cumulative experience performing analysis and public policy work totals more than two years. 
 
 ## Penn Child Research Center
 

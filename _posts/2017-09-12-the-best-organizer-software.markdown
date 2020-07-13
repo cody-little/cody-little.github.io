@@ -7,7 +7,7 @@ img: RandPython.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Over the course of my professional and academic experience I have developed strong programming skills for statistics, machine learning, and data visualizations. I use R for statistical analysis and modelling, web application development with R shiny, and report writing with Rmarkdown. Everything else you can do with programming languages I use Python. My biggest asset that sets my R and Python skills apart is my data cleaning and transforming skills. Across all of my projects using these languages I had to serve as both data analyst/scientist and data engineer which resulted in highly devleoped and creative data cleaning abilities. Along with using these skills I have experience using HTML, CSS, and SQL as well, working with data forces you to be highly adaptive to learning new skills so I am always yearning to learn more. Check out some sample project descriptions and links to my github to view the code below.
+Over the course of my professional and academic experience I have developed strong programming skills for statistics, machine learning, and data visualizations. I have written code that ranges from building interactive dashboards with R shiny to optimizing the hyperperameters on a gradient boosted tree algorithim. Check out some details below or my Github to see some sample work. Along with using these skills I have experience using HTML, CSS, and SQL as well, working with data forces you to be highly adaptive to learning new skills so I am always yearning to learn more. Check out some sample project descriptions and links to my github to view the code below.
 
 ## Statistical Modelling Using R
 

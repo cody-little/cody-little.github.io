@@ -39,4 +39,4 @@ My time at here began in the fall of 2017, I worked and reported directly to the
 
 I co-authored this report with the director of the intsitute for the United Way of York County. We deployed a survey to a statistically representative sample population of Hispanic and Latinx community of York County. The report sought to assess how well the communnity was accessing social services. My role included building the survey, entering the paper results, and analyzing the results using descriptive and inferential statistical techniques. The report garnered a significant amount of attention by city and state level media and governmental officials. I was interviewed by a media source called Our York Media and by WITF radio on thier smart talk segment live on air. 
 
-Check out the report by clicking on this link: https://www.unitedway-york.org/sites/unitedway-york.org/files/UWYC%20Final%20Report%20-%202017%20York%20County%20Hispanic%20and%20Latinx%20Community%20Assessment%20-%206_19_2018.pdf
+Learn more about the report and read it by clicking on this link: https://www.unitedway-york.org/hispanic-and-latinx-community-assessment 

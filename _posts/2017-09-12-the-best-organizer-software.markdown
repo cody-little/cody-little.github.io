@@ -11,21 +11,31 @@ Over the course of my professional and academic experience I have developed stro
 
 ## Statistical Modelling Using R
 
-Utilizing the R programming language I can build statistical models ranging from simple bivariate regression to complex multilevel models deriving insights into data that are very useful for research purposes. Along with those skills I have the experience and know how to check model assumptions and correct them using R syntax making my results more robust. I also can effectively communicate model results and the details which went into building them to a non-technical audience. I firmly believe strong statistical skills are only as effective as a researchers ability to communicate their results. 
+##### Check out a sample project using an interaction effects multivariate regression model by going to my Github profile!
 
+### Skills
+ - Difference in Difference Analysis
+ - Hypothesis Testing
+ - Linear Modelling with Assumption Corrections
+ - Vast data cleaning and manipulation capabilities
 
-```
-outliers$cd <- cooks.distance(model_base)
-plot(outliers$cd,xlab="Index",ylab="cooks distance",pch=19,main = "Outlier Analysis")
-abline(h=5/12804, col="red")
-data2<-subset(outliers, cd <5/12804 )
-```
-![](https://github.com/cody-little/GenderWageRegression/blob/master/outlieranalysis.png)
+### Packages
+ - ggplot2, tidyverse, shiny, plotly, dplyr, and many more 
 
 
 ## Machine Learning and Natural Language Processing Using Python
 
+##### Check out a sample project using SpaCy word embeddings and Random Forests to classify AirBNB price ranges by going to my Github profile!
 
+### Skills
+- Machine Learning and Artificial Intelligence 
+- Algorithim Optimization
+- Feature Engineering and Data Preprocessing
+- Interactive Visualizations
+
+### Libraries and Modules
+
+- sklearn, spaCy, numpy, matplotlib, and many more
 
 
 

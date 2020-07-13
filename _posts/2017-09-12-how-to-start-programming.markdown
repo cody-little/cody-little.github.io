@@ -1,17 +1,36 @@
 ---
 layout: post
-title: How To Start Programming
+title: Education
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: learning.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+Learning new things is one of the most important things in life. Here you will find some details about my formal education and also a bit about myself and what I enjoy learning in my free time.
 
->Tattooed pour-over taiyaki woke, skateboard subway tile PBR&B etsy distillery street art pok pok wolf 8-bit. Vegan bicycle rights schlitz subway tile unicorn taiyaki.
+## Master's of Science from the University of Pennsylvania 
+### GPA: 4.0/4.0 
+### Major: Social Policy
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+Notable Accomplishments and Coursework:
+- Social Policy and Practice Merit Scholarship Recipient ($10,000)
+- Recieved an A or A+ in every course
+- Sample Courses: Applied Linear Modelling, Community Mapping, Practical Machine Learning Methods, Democratizing Data: Analytics for Social Change
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven't heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven't heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+## Bachelor of Arts from York College of Pennsylvania
+### GPA: 3.78/4.0
+### Major: Political Science
+### Minor: American History (4.0 in minor coursework)
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven't heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90's taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+Notable Accomplishments:
+- Won award for best senior research paper across five different majors in the entire History and Political Science department (2019)
+- Presented research at the American Historical Association 2020 Conference, the largest annual historical conference in the world
+- Built department website 
+- Editor of Past and Present journal, an undergraduate research publication
+- Calvin A. Lowell Memorial Leadership Award winner (2018)
+
+## Informal Learning
+I love to learn new skills and read about topics across many different fields, below are some fun things I have learned or that demonstrate my commitment to knowledge
+- Read 20 books in 2019
+- Can say 'thank you' in 15 languages
+- Learning to play the ukelele 

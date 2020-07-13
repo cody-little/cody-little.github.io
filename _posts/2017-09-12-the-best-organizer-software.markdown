@@ -25,4 +25,4 @@ Over the course of my professional and academic experience I have developed stro
 
 
 
-*image source: Udemie Udofia, on medium at []https://medium.com/dataseries/python-or-r-bb9f60034201 
+*image source: Udemie Udofia, on medium at (https://medium.com/dataseries/python-or-r-bb9f60034201) 

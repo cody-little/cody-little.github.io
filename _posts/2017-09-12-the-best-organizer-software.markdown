@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Organizer Software
+title: R and Python Programming Skills
 date: 2020-07-13 00:00:00 +0300
 description: Here is a post detailing R and Python Skills. # Add post description (optional)
 img: RandPython.jpeg # Add image post (optional)

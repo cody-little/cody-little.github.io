@@ -15,6 +15,9 @@ Utilizing the R programming language I can build statistical models ranging from
 
 
 
+![](https://github.com/cody-little/GenderWageRegression/blob/master/outlieranalysis.png)
+
+
 ## Machine Learning and Natural Language Processing Using Python
 
 

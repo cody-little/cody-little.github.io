@@ -1,13 +1,27 @@
 ---
 layout: post
-title: R and Python Technical Skills
+title: R and Python Programming Skills
 date: 2017-09-10 00:00:00 +0300
 description: Here is a post about my R and Python Technical Skills. # Add post description (optional)
 img: RandPython.jpeg # Add image pos (optional)
 tags: 
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+Over the course of my professional and academic experience I have developed strong programming skills for statistics, machine learning, and visualizations. I use R for statistical analysis and modelling, web application development with R shiny, and report writing with Rmarkdown. Everything else you can do with programming languages I use Python. I have very strong machine learning and artifical intelligence skills utilizing this language as well as interactive visualization building. My biggest asset that sets my R and Python skills apart is my data cleaning and transforming skills. Across all of my projects using these languages I had to serve as both data analyst/scientist and data engineer which resulted in highly devleoped and creative data cleaning abilities. Along with using these skills I have experience using HTML, CSS, and SQL as well, working with data forces you to be highly adaptive to learning new skills so I am always yearning to learn more. Check out some sample project descriptions and links to my github to view the code below.
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+## Statistical Modelling Using R
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+## Machine Learning and Natural Language Processing Using Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+*image source: Udemie Udofia, on medium at https://medium.com/dataseries/python-or-r-bb9f60034201 

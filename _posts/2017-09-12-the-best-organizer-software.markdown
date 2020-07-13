@@ -11,6 +11,10 @@ Over the course of my professional and academic experience I have developed stro
 
 ## Statistical Modelling Using R
 
+Utilizing the R programming language I can build statistical models ranging from simple bivariate regression to complex multilevel models deriving insights into data that are very useful for research purposes. Along with those skills I have the experience and know how to check model assumptions and correct them using R syntax making my results more robust. I also can effectively communicate model results and the details which went into building them to a non-technical audience. I firmly believe strong statistical skills are only as effective as a researchers ability to communicate their results. 
+
+
+
 ## Machine Learning and Natural Language Processing Using Python
 
 

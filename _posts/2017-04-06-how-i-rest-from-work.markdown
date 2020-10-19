@@ -7,7 +7,6 @@ img: publicpolicyexperience.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags:
 ---
-# Experience Across Different Fields
 
 ## I work at the intersection of public policy, technology, and data. My professional experience has revolved around using quantitative research methods and advanced analytics to improve government policy in an equitable way.
 

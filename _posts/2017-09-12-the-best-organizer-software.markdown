@@ -7,7 +7,7 @@ img: outlieranalysis.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-
+## Check out some of the highlited research I have completed across my degrees or in a professional setting. I enjoy breaking down barriers by working in cross disciplinary fields ranging from history to machine learning and look for novel ways to used advanced methodologies.
 
 ## Highlighted Research
 
@@ -22,6 +22,11 @@ Research paper utilizing a multi-step machine learning classifier pipeline to pr
 
 Full scale research paper completed as final assignment of Applied Linear Modelling course during graduate degree at UPenn. The paper is seen as the culminating research paper for the degree. Using data from Bureau of Labor Statistics (BLS) I completed a multivariate regression modelling analysis while correcting for the assumptions of the linear model. I analyzed weekly wage difference between men and women across industries that are notably filled with male workers such as finance and technology. While controlling for education, age, and industry I showed a statistically signifcant mediation effect of being male and working in those industries. 
 
+### Workshop: Teaching History's Relevance to Policy: Applying the History and Policy Education Program to the Classroom and Community Presented at the 134th American Historical Association Conference in New York City
+#### Field: History, Education, Public Policy
+
+Teaming up with Dr. Brooks of York College of Pennsylvania and a former classmate Jordan King, I presented our research and experience at the largest annual conference for historians. Using a course Dr. Brooks got started at York College of Pennsylvania we utilized a semester long research project to delve into the local history of poverty policy and then present our reserach to stakeholders. We were invited to speak about our research and experience at this top conference in the field of American History in January of 2020.
+
 ### United Way of York County 2017 Hispanic and Latinx Community Assessment
 #### Field: Public Policy, Economics, Demograpy
 
@@ -31,3 +36,9 @@ While working as an intern at the Arthur J. Glatfelter Intitute for Public Polic
 #### Field: Public Policy, Political Science, Economics
 
 This research was conducted as my Senior Thesis at York College of Pennsylvania for my BA in Political Science. Using logistic regression I explored the effects that financial and racial segreation have on York City. Through an indepth statistical analysis I used American Community Survey data to show that census tracts with a majority of racial and ethnic minorities were more likely to fall under the average high school graduation rates across the city.
+
+### Skills
+
+Programming Languages: R, Python, T-SQL, HTML, CSS
+
+Softwares: ArcGIS, SPSS, Tableau

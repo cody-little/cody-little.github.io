@@ -3,7 +3,7 @@ layout: post
 title: Notable Professional and Academic Research and Skills
 date: 2020-07-13 00:00:00 +0300
 description: Here is a post detailing R and Python Skills. # Add post description (optional)
-img: RandPython.jpeg # Add image post (optional)
+img: outlieranalyis.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 

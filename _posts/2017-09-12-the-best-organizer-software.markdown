@@ -9,7 +9,7 @@ tags: [Productivity, Software] # add tag
 
 ## Check out some of the highlighted research I have completed across my degrees or in a professional setting. I enjoy breaking down barriers by working in cross disciplinary fields ranging from history to machine learning and look for novel ways to use advanced methodologies.
 
-## Highlighted Research
+
 
 ### Toward No-Context Flagging of Disinformation
 #### Field: Machine Learning, Computational Linguistics, Political Science

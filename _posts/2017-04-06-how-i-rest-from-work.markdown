@@ -40,7 +40,7 @@ I started working at the Penn Child Research Center as a survey research intern 
 ### Public Policy Analysis Intern at Arthur J. Glatfelter Institute for Public Policy
 ### September 2017 - May 2019
 
-My time at here began in the fall of 2017, I worked and reported directly to the director of the institute and it was the formative experience that led me into analytical and publc policy research. I worked across the entire range of the policy spectrum from data analysis, to research design, meeting with community stakeholders and everthing in between. My experience here was phenomenal thanks to a great mentor. My biggest accomplishment here is a quantitative research report which gained local recognition for the impact it had on city and county level policy decisions, see more about the report below.
+My time at here began in the fall of 2017, I worked and reported directly to the director of the institute and it was the formative experience that led me into analytical and publc policy research. I worked across the entire range of the policy spectrum from data analysis, to research design, meeting with community stakeholders and everthing in between. My experience here was phenomenal thanks to a great mentor. My biggest accomplishment here is a quantitative research report which gained local recognition for the impact it had on city and county level policy decisions.
 
 ##### Responsibilities
 

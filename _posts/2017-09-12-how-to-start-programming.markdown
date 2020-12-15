@@ -6,7 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: learning.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-Learning new things is one of the most important things in life. Here you will find some details about my formal education and also a bit about myself and what I enjoy learning in my free time.
+# Learning new things is one of the most important things in life. Here you will find some details about my formal education and also a bit about myself and what I enjoy learning in my free time.
 
 ## Master's of Science from the University of Pennsylvania 
 ### GPA: 4.0/4.0 
@@ -31,6 +31,6 @@ Notable Accomplishments:
 
 ## Informal Learning
 I love to learn new skills and read about topics across many different fields, below are some fun things I have learned or that demonstrate my commitment to knowledge
-- Check out what I am into reading by clicking [here](https://codylittleshinyapps.shinyapps.io/Book_Dash/)
+- Check out what I am into reading through the interactive dashboard I made by clicking [here](https://codylittleshinyapps.shinyapps.io/Book_Dash/)
 - Can say 'thank you' in 15 languages
 - Learning to play the ukelele 

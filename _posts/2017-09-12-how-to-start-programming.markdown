@@ -31,6 +31,6 @@ Notable Accomplishments:
 
 ## Informal Learning
 I love to learn new skills and read about topics across many different fields, below are some fun things I have learned or that demonstrate my commitment to knowledge
-- Read 20 books in 2019
+- Check out what I am into reading by clicking [here](https://codylittleshinyapps.shinyapps.io/Book_Dash/)
 - Can say 'thank you' in 15 languages
 - Learning to play the ukelele 
